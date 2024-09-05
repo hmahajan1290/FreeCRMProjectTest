@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-04T19:45:19 EDT" name="Surefire suite" finished-at="2024-09-04T19:46:12 EDT" duration-ms="52955">
+    <groups>
+    </groups>
+    <test started-at="2024-09-04T19:45:19 EDT" name="Surefire test" finished-at="2024-09-04T19:46:12 EDT" duration-ms="52955">
+      <class name="com.crm.qa.testcases.LoginPageTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTests@647fd8ce]" started-at="2024-09-04T19:45:52 EDT" name="setUp" finished-at="2024-09-04T19:45:54 EDT" duration-ms="2436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyClickingOnSignUpNavigatesUserToRegisterPage()[pri:0, instance:com.crm.qa.testcases.LoginPageTests@647fd8ce]" started-at="2024-09-04T19:45:54 EDT" name="verifyClickingOnSignUpNavigatesUserToRegisterPage" finished-at="2024-09-04T19:45:55 EDT" duration-ms="1002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickingOnSignUpNavigatesUserToRegisterPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTests@647fd8ce]" started-at="2024-09-04T19:45:55 EDT" name="tearDown" finished-at="2024-09-04T19:45:55 EDT" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTests@647fd8ce]" started-at="2024-09-04T19:45:55 EDT" name="setUp" finished-at="2024-09-04T19:45:58 EDT" duration-ms="2438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginPageTitle()[pri:0, instance:com.crm.qa.testcases.LoginPageTests@647fd8ce]" started-at="2024-09-04T19:45:58 EDT" name="verifyLoginPageTitle" finished-at="2024-09-04T19:45:58 EDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTests@647fd8ce]" started-at="2024-09-04T19:45:58 EDT" name="tearDown" finished-at="2024-09-04T19:45:58 EDT" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTests@647fd8ce]" started-at="2024-09-04T19:45:58 EDT" name="setUp" finished-at="2024-09-04T19:46:00 EDT" duration-ms="2444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyUserCanLoginWithCorrectCredentials()[pri:0, instance:com.crm.qa.testcases.LoginPageTests@647fd8ce]" started-at="2024-09-04T19:46:00 EDT" name="verifyUserCanLoginWithCorrectCredentials" finished-at="2024-09-04T19:46:01 EDT" duration-ms="1000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserCanLoginWithCorrectCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTests@647fd8ce]" started-at="2024-09-04T19:46:01 EDT" name="tearDown" finished-at="2024-09-04T19:46:01 EDT" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTests@647fd8ce]" started-at="2024-09-04T19:46:01 EDT" name="setUp" finished-at="2024-09-04T19:46:04 EDT" duration-ms="2464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyUserGetsErrorMessageWithWrongCreds()[pri:0, instance:com.crm.qa.testcases.LoginPageTests@647fd8ce]" started-at="2024-09-04T19:46:04 EDT" name="verifyUserGetsErrorMessageWithWrongCreds" finished-at="2024-09-04T19:46:05 EDT" duration-ms="572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserGetsErrorMessageWithWrongCreds -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTests@647fd8ce]" started-at="2024-09-04T19:46:05 EDT" name="tearDown" finished-at="2024-09-04T19:46:05 EDT" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTests -->
+      <class name="com.crm.qa.testcases.HomePageTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.HomePageTests@159f197]" started-at="2024-09-04T19:46:05 EDT" name="setUp" finished-at="2024-09-04T19:46:07 EDT" duration-ms="2692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyClickingOnContactsRedirectsToContactsPage()[pri:0, instance:com.crm.qa.testcases.HomePageTests@159f197]" started-at="2024-09-04T19:46:07 EDT" name="verifyClickingOnContactsRedirectsToContactsPage" finished-at="2024-09-04T19:46:08 EDT" duration-ms="1151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClickingOnContactsRedirectsToContactsPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.HomePageTests@159f197]" started-at="2024-09-04T19:46:08 EDT" name="tearDown" finished-at="2024-09-04T19:46:09 EDT" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.HomePageTests@159f197]" started-at="2024-09-04T19:46:09 EDT" name="setUp" finished-at="2024-09-04T19:46:11 EDT" duration-ms="2561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCreateNewCustomerPageOpensWhenPlusButtonIsClicked()[pri:0, instance:com.crm.qa.testcases.HomePageTests@159f197]" started-at="2024-09-04T19:46:11 EDT" name="verifyCreateNewCustomerPageOpensWhenPlusButtonIsClicked" finished-at="2024-09-04T19:46:12 EDT" duration-ms="1122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateNewCustomerPageOpensWhenPlusButtonIsClicked -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.HomePageTests@159f197]" started-at="2024-09-04T19:46:12 EDT" name="tearDown" finished-at="2024-09-04T19:46:12 EDT" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.HomePageTests -->
+      <class name="com.crm.qa.testcases.CreateNewContactPageTests">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@2805c96b]" started-at="2024-09-04T19:45:20 EDT" name="setUp" finished-at="2024-09-04T19:45:29 EDT" duration-ms="9372" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.testcases.CreateNewContactPageTests.verifyDataCanBeAddedFromExcelSheet(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyDataCanBeAddedFromExcelSheet(java.lang.String,java.lang.String)[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@2805c96b]" started-at="2024-09-04T19:45:29 EDT" name="verifyDataCanBeAddedFromExcelSheet" data-provider="getContactsData" finished-at="2024-09-04T19:45:30 EDT" duration-ms="1218" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Last1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDataCanBeAddedFromExcelSheet -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@2805c96b]" started-at="2024-09-04T19:45:30 EDT" name="tearDown" finished-at="2024-09-04T19:45:30 EDT" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@2805c96b]" started-at="2024-09-04T19:45:30 EDT" name="setUp" finished-at="2024-09-04T19:45:34 EDT" duration-ms="4093" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.testcases.CreateNewContactPageTests.verifyDataCanBeAddedFromExcelSheet(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyDataCanBeAddedFromExcelSheet(java.lang.String,java.lang.String)[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@2805c96b]" started-at="2024-09-04T19:45:34 EDT" name="verifyDataCanBeAddedFromExcelSheet" data-provider="getContactsData" finished-at="2024-09-04T19:45:36 EDT" duration-ms="1156" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Last2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDataCanBeAddedFromExcelSheet -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@2805c96b]" started-at="2024-09-04T19:45:36 EDT" name="tearDown" finished-at="2024-09-04T19:45:36 EDT" duration-ms="88" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@2805c96b]" started-at="2024-09-04T19:45:36 EDT" name="setUp" finished-at="2024-09-04T19:45:40 EDT" duration-ms="3917" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.testcases.CreateNewContactPageTests.verifyDataCanBeAddedFromExcelSheet(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyDataCanBeAddedFromExcelSheet(java.lang.String,java.lang.String)[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@2805c96b]" started-at="2024-09-04T19:45:40 EDT" name="verifyDataCanBeAddedFromExcelSheet" data-provider="getContactsData" finished-at="2024-09-04T19:45:41 EDT" duration-ms="1250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Last3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDataCanBeAddedFromExcelSheet -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@2805c96b]" started-at="2024-09-04T19:45:41 EDT" name="tearDown" finished-at="2024-09-04T19:45:41 EDT" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@2805c96b]" started-at="2024-09-04T19:45:41 EDT" name="setUp" finished-at="2024-09-04T19:45:45 EDT" duration-ms="4318" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.testcases.CreateNewContactPageTests.verifyDataCanBeAddedFromExcelSheet(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyDataCanBeAddedFromExcelSheet(java.lang.String,java.lang.String)[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@2805c96b]" started-at="2024-09-04T19:45:45 EDT" name="verifyDataCanBeAddedFromExcelSheet" data-provider="getContactsData" finished-at="2024-09-04T19:45:47 EDT" duration-ms="1248" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Last4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDataCanBeAddedFromExcelSheet -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@2805c96b]" started-at="2024-09-04T19:45:47 EDT" name="tearDown" finished-at="2024-09-04T19:45:47 EDT" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@2805c96b]" started-at="2024-09-04T19:45:47 EDT" name="setUp" finished-at="2024-09-04T19:45:50 EDT" duration-ms="3745" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.testcases.CreateNewContactPageTests.verifyNewContactIsCreatedByJustAddingMandatoryFields()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyNewContactIsCreatedByJustAddingMandatoryFields()[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@2805c96b]" started-at="2024-09-04T19:45:50 EDT" name="verifyNewContactIsCreatedByJustAddingMandatoryFields" finished-at="2024-09-04T19:45:52 EDT" duration-ms="1451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewContactIsCreatedByJustAddingMandatoryFields -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@2805c96b]" started-at="2024-09-04T19:45:52 EDT" name="tearDown" finished-at="2024-09-04T19:45:52 EDT" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.CreateNewContactPageTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-03T12:46:10 EDT" name="Default suite" finished-at="2024-09-03T12:49:43 EDT" duration-ms="212986">
+    <groups>
+    </groups>
+    <test started-at="2024-09-03T12:46:10 EDT" name="Default test" finished-at="2024-09-03T12:49:43 EDT" duration-ms="212986">
+      <class name="com.crm.qa.testcases.CreateNewContactPageTests">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@173ed316]" started-at="2024-09-03T12:46:11 EDT" name="setUp" finished-at="2024-09-03T12:46:57 EDT" duration-ms="45733" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.testcases.CreateNewContactPageTests.verifyDataCanBeAddedFromExcelSheet(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyDataCanBeAddedFromExcelSheet(java.lang.String,java.lang.String)[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@173ed316]" started-at="2024-09-03T12:46:57 EDT" name="verifyDataCanBeAddedFromExcelSheet" data-provider="getContactsData" finished-at="2024-09-03T12:47:06 EDT" duration-ms="9323" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Last1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDataCanBeAddedFromExcelSheet -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@173ed316]" started-at="2024-09-03T12:47:06 EDT" name="tearDown" finished-at="2024-09-03T12:47:06 EDT" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@173ed316]" started-at="2024-09-03T12:47:06 EDT" name="setUp" finished-at="2024-09-03T12:47:48 EDT" duration-ms="42117" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.testcases.CreateNewContactPageTests.verifyDataCanBeAddedFromExcelSheet(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyDataCanBeAddedFromExcelSheet(java.lang.String,java.lang.String)[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@173ed316]" started-at="2024-09-03T12:47:48 EDT" name="verifyDataCanBeAddedFromExcelSheet" data-provider="getContactsData" finished-at="2024-09-03T12:47:57 EDT" duration-ms="9089" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Last2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDataCanBeAddedFromExcelSheet -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@173ed316]" started-at="2024-09-03T12:47:57 EDT" name="tearDown" finished-at="2024-09-03T12:47:58 EDT" duration-ms="143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@173ed316]" started-at="2024-09-03T12:47:58 EDT" name="setUp" finished-at="2024-09-03T12:48:42 EDT" duration-ms="44126" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.testcases.CreateNewContactPageTests.verifyDataCanBeAddedFromExcelSheet(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyDataCanBeAddedFromExcelSheet(java.lang.String,java.lang.String)[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@173ed316]" started-at="2024-09-03T12:48:42 EDT" name="verifyDataCanBeAddedFromExcelSheet" data-provider="getContactsData" finished-at="2024-09-03T12:48:51 EDT" duration-ms="8843" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Last3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDataCanBeAddedFromExcelSheet -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@173ed316]" started-at="2024-09-03T12:48:51 EDT" name="tearDown" finished-at="2024-09-03T12:48:51 EDT" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@173ed316]" started-at="2024-09-03T12:48:51 EDT" name="setUp" finished-at="2024-09-03T12:49:34 EDT" duration-ms="43396" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.crm.qa.testcases.CreateNewContactPageTests.verifyDataCanBeAddedFromExcelSheet(java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyDataCanBeAddedFromExcelSheet(java.lang.String,java.lang.String)[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@173ed316]" started-at="2024-09-03T12:49:34 EDT" name="verifyDataCanBeAddedFromExcelSheet" data-provider="getContactsData" finished-at="2024-09-03T12:49:43 EDT" duration-ms="8872" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Last4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDataCanBeAddedFromExcelSheet -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.CreateNewContactPageTests@173ed316]" started-at="2024-09-03T12:49:43 EDT" name="tearDown" finished-at="2024-09-03T12:49:43 EDT" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.CreateNewContactPageTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
